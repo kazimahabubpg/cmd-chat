@@ -59,6 +59,6 @@ read -p "Select an option: " option
 
 if [[ $option == 0 ]]; then
 host
-elif [[ $option == 1 ]]; then
+elif [[ $option == 1 ]]; th
 join
 fi
